@@ -28,11 +28,11 @@ int main(){
 		    	}
 		    	else{
 		    		conceito = 'D';
-		    		}
-				}
-			}		    		
+		    	}
+			}
+		}		    		
 		 	
-	 	}	
+	}	
 	printf("\nConceito: %c", conceito); 
 	printf("\n\n\nDigite 0 para continuar verificando os conceitos dos alunos.\n");
 	scanf("%d", &continua);
